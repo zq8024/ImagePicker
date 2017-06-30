@@ -140,7 +140,7 @@
         <source-file src="src/android/Library/res/values-hu/multiimagechooser_strings_hu.xml" target-dir="res/values-hu"/>
         <source-file src="src/android/Library/res/values-ja/multiimagechooser_strings_ja.xml" target-dir="res/values-ja"/>
         <source-file src="src/android/Library/res/values-ko/multiimagechooser_strings_ko.xml" target-dir="res/values-ko"/>
-        <source-file src="src/android/Library/res/values-zh-cn/multiimagechooser_strings_zh-rCN.xml" target-dir="res/values-zh-rCN"/>
+        <source-file src="src/android/Library/res/values-zh-rCN/multiimagechooser_strings_zh-rCN.xml" target-dir="res/values-zh-rCN"/>
 
         <framework src="src/android/ignorelinterrors.gradle" custom="true" type="gradleReference"/>
         <framework src="src/android/androidtarget.gradle" custom="true" type="gradleReference"/>
